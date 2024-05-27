@@ -1,0 +1,2 @@
+zevon>=0.3
+requests
