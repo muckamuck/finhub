@@ -23,6 +23,7 @@ python extract-config.py | tee dev.ini
 
 #### Deploy the function:
 ```
+pip install lambdautil
 cd stocks/
 lambdautil deploy -f config/dev.ini
 ```
