@@ -1,2 +1,9 @@
 portfolio.json
 dev.ini
+__pycache__/
+build/
+dist/
+*.html
+xxx
+xx
+x
